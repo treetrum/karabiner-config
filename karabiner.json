@@ -16,7 +16,7 @@
                 },
                 "rules": [
                     {
-                        "description": "Shift+Backspace to delete forward",
+                        "description": "Control+Backspace to delete forward",
                         "manipulators": [
                             {
                                 "from": {
